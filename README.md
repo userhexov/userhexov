@@ -62,15 +62,6 @@ public class Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=userhexov&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f7931e&icon_color=f7931e&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=userhexov&theme=radical&hide_border=true&background=0D1117&stroke=F7931E&ring=F7931E&fire=F7931E&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### Technology Arsenal
 
 <table>
@@ -109,9 +100,6 @@ Scalable backend services with Spring Boot, RESTful APIs, microservices architec
 **Automation Scripts**  
 Deployment automation, system monitoring, log analysis, backup solutions
 
-**DevOps Tools**  
-CI/CD pipelines, infrastructure as code, container orchestration
-
 </div>
 
 <br/>
@@ -130,17 +118,14 @@ CI/CD pipelines, infrastructure as code, container orchestration
 <a href="https://github.com/userhexov?tab=repositories">
 <img src="https://img.shields.io/badge/📦_Projects-View_Code-f7931e?style=for-the-badge" alt="Projects" />
 </a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/📧_Email-Contact_Me-f7931e?style=for-the-badge" alt="Contact" />
+<a href="https://t.me/userhexov">
+<img src="https://img.shields.io/badge/Telegram-Contact_Me-f7931e?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=userhexov&color=f7931e&style=for-the-badge&label=Visitors" />
 
 </div>
 
 <br/>
-
-<div align="center">
-
-</div>
