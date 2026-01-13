@@ -74,11 +74,6 @@ public class Developer {
 <img src="https://skillicons.dev/icons?i=bash,linux" />
 <br/><img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg" width="48" height="48" />
 <br/><sub>Shell & Systems</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,github" />
-<br/><sub>DevOps & CI/CD</sub>
-</td>
 </tr>
 </table>
 
