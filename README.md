@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hexov&fontSize=70&color=gradient&customColorList=12,17,20&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hexov&fontSize=70&color=gradient&customColorList=6,11,20&fontColor=fff" />
 
 </div>
 
@@ -8,9 +8,9 @@
 
 <div align="center">
 
-### Java Developer • Automation Engineer • Systems Architect
+### Python Developer • Automation Engineer • Systems Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=Crafting+enterprise+solutions+with+Java;Automating+everything+with+Bash+scripts" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=Python+Developer+and+Automation+Engineer;Crafting+solutions+with+Python+and+Bash" alt="Typing animation" />
 
 </div>
 
@@ -22,21 +22,19 @@
 
 ### Current Stack
 
-```java
-public class Developer {
-    private String role = "Backend Engineer";
-    private String[] languages = {"Java", "Bash"};
-    private String[] frameworks = {"Spring Boot", "Maven"};
-    private String focus = "Automation & Scalability";
+```python
+class Developer:
+    def __init__(self):
+        self.role = "Backend Engineer"
+        self.languages = ["Python", "Bash"]
+        self.frameworks = ["FastAPI", "Flask"]
+        self.focus = "Automation & Scalability"
     
-    public void code() {
-        while(true) {
-            write();
-            test();
-            deploy();
-        }
-    }
-}
+    def code(self):
+        while True:
+            self.write()
+            self.test()
+            self.deploy()
 ```
 
 </td>
@@ -44,10 +42,10 @@ public class Developer {
 
 ### Quick Info
 
-**Primary Language:** Java 17+  
+**Primary Language:** Python 3.10+  
 **Scripting:** Bash, Shell  
-**Build Tools:** Maven, Gradle  
-**Focus:** Clean Architecture & DevOps  
+**Frameworks:** FastAPI, Flask, Django  
+**Focus:** Clean Code & Automation  
 **Approach:** Test-driven, automated
 
 </td>
@@ -67,13 +65,18 @@ public class Developer {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle" />
-<br/><sub>Java Ecosystem</sub>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django" />
+<br/><sub>Python Ecosystem</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=bash,linux" />
 <br/><img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg" width="48" height="48" />
 <br/><sub>Shell & Systems</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,github" />
+<br/><sub>DevOps & CI/CD</sub>
+</td>
 </tr>
 </table>
 
@@ -89,8 +92,8 @@ public class Developer {
 
 ### What I Build
 
-**Enterprise Applications**  
-Scalable backend services with Spring Boot, RESTful APIs, microservices architecture
+**Python Applications**  
+Scalable backend services with FastAPI/Flask, RESTful APIs, async processing
 
 **Automation Scripts**  
 Deployment automation, system monitoring, log analysis, backup solutions
@@ -108,18 +111,18 @@ Deployment automation, system monitoring, log analysis, backup solutions
 ### Get in Touch
 
 <a href="https://userhexov.github.io">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-f7931e?style=for-the-badge" alt="Portfolio" />
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-3776AB?style=for-the-badge" alt="Portfolio" />
 </a>
 <a href="https://github.com/userhexov?tab=repositories">
-<img src="https://img.shields.io/badge/📦_Projects-View_Code-f7931e?style=for-the-badge" alt="Projects" />
+<img src="https://img.shields.io/badge/📦_Projects-View_Code-3776AB?style=for-the-badge" alt="Projects" />
 </a>
 <a href="https://t.me/userhexov">
-<img src="https://img.shields.io/badge/Telegram-Contact_Me-f7931e?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<img src="https://img.shields.io/badge/Telegram-Contact_Me-3776AB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=userhexov&color=f7931e&style=for-the-badge&label=Visitors" />
+<img src="https://komarev.com/ghpvc/?username=userhexov&color=3776AB&style=for-the-badge&label=Visitors" />
 
 </div>
 
