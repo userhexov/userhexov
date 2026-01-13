@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hexov&fontSize=70&color=gradient&customColorList=12,17,20&fontColor=fff&stroke=F7931E&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hexov&fontSize=70&color=gradient&customColorList=12,17,20&fontColor=fff" />
 
 </div>
 
@@ -75,39 +75,21 @@ public class Developer {
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle" />
 <br/><sub>Java Ecosystem</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=bash,linux" />
 <br/><img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg" width="48" height="48" />
 <br/><sub>Shell & Systems</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,github" />
 <br/><sub>DevOps & CI/CD</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-<br/><sub>Databases</sub>
-</td>
 </tr>
 </table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### Code Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=userhexov&theme=redical&hide_border=true&bg_color=0d1117&color=f7931e&line=f7931e&point=c9d1d9&area=true&area_color=f7931e" width="95%" />
 
 </div>
 
