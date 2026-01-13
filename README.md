@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20&height=180&section=header&text=Hexov&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hexov&fontSize=70&color=gradient&customColorList=12,17,20&fontColor=fff&stroke=F7931E&strokeWidth=2" />
 
 </div>
 
@@ -80,11 +80,12 @@ public class Developer {
 <br/><sub>Java Ecosystem</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=bash,linux,ubuntu,debian" />
+<img src="https://skillicons.dev/icons?i=bash,linux" />
+<br/><img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg" width="48" height="48" />
 <br/><sub>Shell & Systems</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,github" />
 <br/><sub>DevOps & CI/CD</sub>
 </td>
 <td align="center" width="25%">
@@ -161,6 +162,6 @@ CI/CD pipelines, infrastructure as code, container orchestration
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&customColorList=12,17,20&section=footer" />
 
 </div>
