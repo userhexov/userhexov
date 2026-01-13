@@ -136,14 +136,11 @@ CI/CD pipelines, infrastructure as code, container orchestration
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=userhexov&color=f7931e&style=for-the-badge&label=Visitors" />
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&customColorList=12,17,20&section=footer" />
 
 </div>
